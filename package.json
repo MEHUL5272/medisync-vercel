@@ -1,0 +1,9 @@
+{
+  "name": "medisync",
+  "version": "1.0.0",
+  "description": "MediSync PHP & MongoDB Web Application",
+  "private": true,
+  "scripts": {
+    "dev": "php -S localhost:8000"
+  }
+}
